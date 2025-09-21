@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Jimen Descaling Powder – Best Washing Machine Cleaner</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {font-family: Arial, sans-serif; margin:0; padding:0; background:#f9f9f9; color:#333;}
+    header {background:#ffcc00; padding:20px; text-align:center;}
+    header h1 {margin:0; font-size:26px;}
+    .container {max-width:900px; margin:30px auto; padding:20px; background:#fff; border-radius:12px;
+      box-shadow:0 6px 20px rgba(0,0,0,0.08);}
+    img {max-width:100%; border-radius:10px;}
+    h2 {margin-top:20px;}
+    p {line-height:1.6;}
+    .btn {display:inline-block; margin-top:20px; padding:12px 20px; font-size:18px;
+      background:#ff9900; color:#fff; text-decoration:none; border-radius:8px;}
+    .btn:hover {background:#cc7a00;}
+    footer {text-align:center; padding:20px; font-size:14px; color:#777;}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🧼 Jimen Descaling Powder</h1>
+    <p>Keep Your Washing Machine Clean & Fresh</p>
+  </header>
+
+  <div class="container">
+    <img src="https://m.media-amazon.com/images/I/71FhGJ+eVdL._SL1500_.jpg" alt="Jimen Descaling Powder">
+
+    <h2>Why Choose Jimen?</h2>
+    <ul>
+      <li>Removes lime-scale and detergent residues</li>
+      <li>Improves washing machine performance</li>
+      <li>Eco-friendly with refreshing fragrance</li>
+      <li>Increases life of your appliance</li>
+    </ul>
+
+    <a class="btn" href="YOUR_AFFILIATE_LINK" target="_blank">👉 Buy on Amazon</a>
+  </div>
+
+  <footer>
+    <p>Affiliate Disclosure: As an Amazon Associate, I earn from qualifying purchases.</p>
+  </footer>
+</body>
+</html>
